@@ -15,6 +15,8 @@
 		E2EB651A1DFF2F7F005871DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2EB65181DFF2F7F005871DB /* LaunchScreen.storyboard */; };
 		E2EB65251DFF2F7F005871DB /* FunFactsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E2EB65241DFF2F7F005871DB /* FunFactsTests.m */; };
 		E2EB65311DFF4870005871DB /* FactBook.m in Sources */ = {isa = PBXBuildFile; fileRef = E2EB65301DFF4870005871DB /* FactBook.m */; };
+		E2EB65331DFF4B69005871DB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E2EB65321DFF4B69005871DB /* README.md */; };
+		E2EB65371DFF4CC2005871DB /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E2EB65361DFF4CC2005871DB /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +45,8 @@
 		E2EB65261DFF2F7F005871DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E2EB652F1DFF4870005871DB /* FactBook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FactBook.h; sourceTree = "<group>"; };
 		E2EB65301DFF4870005871DB /* FactBook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FactBook.m; sourceTree = "<group>"; };
+		E2EB65321DFF4B69005871DB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E2EB65361DFF4CC2005871DB /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 				E2EB65091DFF2F7F005871DB /* FunFacts */,
 				E2EB65231DFF2F7F005871DB /* FunFactsTests */,
 				E2EB65081DFF2F7F005871DB /* Products */,
+				E2EB65321DFF4B69005871DB /* README.md */,
+				E2EB65361DFF4CC2005871DB /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -200,6 +206,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2EB65371DFF4CC2005871DB /* .gitignore in Resources */,
 				E2EB651A1DFF2F7F005871DB /* LaunchScreen.storyboard in Resources */,
 				E2EB65171DFF2F7F005871DB /* Assets.xcassets in Resources */,
 				E2EB65151DFF2F7F005871DB /* Main.storyboard in Resources */,
@@ -222,6 +229,7 @@
 			files = (
 				E2EB65121DFF2F7F005871DB /* ViewController.m in Sources */,
 				E2EB650F1DFF2F7F005871DB /* AppDelegate.m in Sources */,
+				E2EB65331DFF4B69005871DB /* README.md in Sources */,
 				E2EB65311DFF4870005871DB /* FactBook.m in Sources */,
 				E2EB650C1DFF2F7F005871DB /* main.m in Sources */,
 			);
