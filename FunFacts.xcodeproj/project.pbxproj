@@ -17,6 +17,7 @@
 		E2EB65311DFF4870005871DB /* FactBook.m in Sources */ = {isa = PBXBuildFile; fileRef = E2EB65301DFF4870005871DB /* FactBook.m */; };
 		E2EB65331DFF4B69005871DB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E2EB65321DFF4B69005871DB /* README.md */; };
 		E2EB65371DFF4CC2005871DB /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E2EB65361DFF4CC2005871DB /* .gitignore */; };
+		E2EB653A1DFF5B6D005871DB /* ColorWheel.m in Sources */ = {isa = PBXBuildFile; fileRef = E2EB65391DFF5B6D005871DB /* ColorWheel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		E2EB65301DFF4870005871DB /* FactBook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FactBook.m; sourceTree = "<group>"; };
 		E2EB65321DFF4B69005871DB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E2EB65361DFF4CC2005871DB /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E2EB65381DFF5B6D005871DB /* ColorWheel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorWheel.h; sourceTree = "<group>"; };
+		E2EB65391DFF5B6D005871DB /* ColorWheel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorWheel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,8 @@
 				E2EB65181DFF2F7F005871DB /* LaunchScreen.storyboard */,
 				E2EB651B1DFF2F7F005871DB /* Info.plist */,
 				E2EB650A1DFF2F7F005871DB /* Supporting Files */,
+				E2EB65381DFF5B6D005871DB /* ColorWheel.h */,
+				E2EB65391DFF5B6D005871DB /* ColorWheel.m */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -230,6 +235,7 @@
 				E2EB65121DFF2F7F005871DB /* ViewController.m in Sources */,
 				E2EB650F1DFF2F7F005871DB /* AppDelegate.m in Sources */,
 				E2EB65331DFF4B69005871DB /* README.md in Sources */,
+				E2EB653A1DFF5B6D005871DB /* ColorWheel.m in Sources */,
 				E2EB65311DFF4870005871DB /* FactBook.m in Sources */,
 				E2EB650C1DFF2F7F005871DB /* main.m in Sources */,
 			);
@@ -430,6 +436,7 @@
 				E2EB652B1DFF2F7F005871DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E2EB652C1DFF2F7F005871DB /* Build configuration list for PBXNativeTarget "FunFactsTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +445,7 @@
 				E2EB652E1DFF2F7F005871DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
