@@ -97,6 +97,8 @@
 				E2EB650E1DFF2F7F005871DB /* AppDelegate.m */,
 				E2EB65101DFF2F7F005871DB /* ViewController.h */,
 				E2EB65111DFF2F7F005871DB /* ViewController.m */,
+				E2EB65381DFF5B6D005871DB /* ColorWheel.h */,
+				E2EB65391DFF5B6D005871DB /* ColorWheel.m */,
 				E2EB652F1DFF4870005871DB /* FactBook.h */,
 				E2EB65301DFF4870005871DB /* FactBook.m */,
 				E2EB65131DFF2F7F005871DB /* Main.storyboard */,
@@ -104,8 +106,6 @@
 				E2EB65181DFF2F7F005871DB /* LaunchScreen.storyboard */,
 				E2EB651B1DFF2F7F005871DB /* Info.plist */,
 				E2EB650A1DFF2F7F005871DB /* Supporting Files */,
-				E2EB65381DFF5B6D005871DB /* ColorWheel.h */,
-				E2EB65391DFF5B6D005871DB /* ColorWheel.m */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
